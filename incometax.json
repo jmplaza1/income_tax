@@ -1,6 +1,6 @@
 {
   "name": "Income Tax",
-  "details": "",
+  "details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
   "children": [
 
                                      {
@@ -10,28 +10,27 @@
 
                                                    {
                                                       "name": "Resident Citizen",
-                                                        "details": "Changes",
+                                                        "details": "A citizen of the Philippines who stayed in the Philippines or stayed outside the Philippines for less than 183 days during the taxable year.",
                                                       "children":[]
                                                     },
-
                                                    {
                                                       "name": "Non-Resident Citizen",
                                                         "details": "Changes",
                                                       "children":[]
                                                     }
-                                        ]
+													]
                                       },
 
                                      {
                                         "name": "Alien",
                                           "details": "Changes",
                                                         "children":[
-                                                                                               {
+                                                        {
                                                         "name": "Resident Alien",
                                                           "details": "Changes",
                                                         "children":[]
-                                                      },
-                                                     {
+                                                        },
+														{
                                                         "name": "Non-Resident Alien",
                                                           "details": "Changes",
                                                         "children":[
@@ -48,10 +47,10 @@
                                                                                                           }
                                                                                                           
                                                                   ]
-                                                      }
-                                                    ]
+														}
+																	]
 
-                                                                   },
+                                       },
             {
               "name": "Domestic Corporations",
               "details": "Changes ",
