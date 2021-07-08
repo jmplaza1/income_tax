@@ -23,22 +23,22 @@
 
                                      {
                                         "name": "Alien",
-                                          "details": "Changes",
+                                          "details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
 										  
                                                         "children":[
                                                         {
                                                         "name": "Resident Alien",
-                                                          "details": "Changes",
+                                                          "details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
                                                         "children":[]
                                                         },
 														{
                                                         "name": "Non-Resident Alien",
-                                                          "details": "Changes",
+                                                          "details": "An individual whose residence is not within the Philippines and who is not a citizen thereof",
                                                         "children":[
                                                           
                                                                                                          {
                                                                                                             "name": "NRA ETB",
-                                                                                                              "details": "Changes",
+                                                                                                              "details": "If the aggregate period of stay in the Philippines",
                                                                                                             "children":[]
                                                                                                           },
                                                                                                           {
