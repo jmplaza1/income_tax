@@ -1,0 +1,267 @@
+{
+  "name": Income Tax",
+  "details": "",
+  "children": [
+            {
+              "name": "Domestic Corporations",
+              "details": "Changes ",
+              "children": [
+                                          {
+                                        "name": "Regular Corporate Income Tax",
+                                          "details": "Changes",
+                                        "children":[
+                                          
+                                                     {
+                                        "name": "Before",
+                                                                                 "details": "30%",
+                                        "children":[]
+                                      },  {
+                                        "name": "CREATE Law",
+                                        "details": "Starting July 2020, 25% or 20%, subject to the following conditions: \n (1) Net taxable income is not more than P5M, and \n (2) Total Assets not more than P100M",
+                                        "children":[]
+                                      }
+                                        ]
+                                      }, 
+                                          {
+                                        "name": "Minimum Corporate Income Tax",
+                                        "details": "Changes",
+                                        "children":[
+                                           {
+                                        "name": "Before",
+                                        "details": "2%",
+                                        "children":[]
+                                      },
+                                       {
+                                        "name": "CREATE Law",
+                                        "details": "1%, July 1, 2020 to July 30, 2023",
+                                        "children":[]
+                                      }
+                                        ]
+                                      },   
+                                      {
+                                        "name": "Deductions from Gross Income",
+                                        "details": "Changes",
+                                        "children":[
+                                                                     {
+                                        "name": "Before",
+                                        "details": "Non-deductible interest expense: 33% of interest income subject to final tax",
+                                        "children":[]
+                                      },
+                                                                 {
+                                        "name": "CREATE Law",
+                                        "details": "(1) Additional 50% deduction for labor training expense. (2) Non-deductible interest expense: 20% of interest income subject to final tax",
+                                        "children":[]
+                                      }
+                                        ]
+                                      },   
+                                      {
+                                        "name": "IAET",
+                                         "details": "Improperly Accumulated Earnings Tax - Changes",
+                                        "children":[
+                                             {
+                                        "name": "Before",
+                                         "details": "10%",
+                                        "children":[]
+                                      },
+                                         {
+                                        "name": "CREATE Law",
+                                         "details": "Repealed, July 01,2020 to June 30, 2023",
+                                        "children":[]
+                                      }
+
+                                        ]
+                                      },   
+                                      {
+                                        "name": "PEIH",
+                                        "details": "Proprietary Educational Institutions and Hospitals - Changes",
+                                        "children":[
+                                             {
+                                        "name": "Before",
+                                         "details": "10% of Net taxable income",
+                                        "children":[]
+                                      },
+                                         {
+                                        "name": "CREATE Law",
+                                         "details": "1% of net taxable income, July 01, 2020 to June 30, 2023",
+                                        "children":[]
+                                      }
+                                        ]
+                                      },   
+                                      {
+                                        "name": "Intercorporate Dividends",
+                                        "details": "Changes",
+                                        "children":[
+                                             {
+                                        "name": "Before",
+                                         "details": "Dividends from NRFC - 30% RCIT",
+                                        "children":[]
+                                      },
+                                         {
+                                        "name": "CREATE Law",
+                                         "details": "Dividends from NRFC - exempt from income tax subject to the following conditions: 1) reinvestment in DC, 2) 20% or more ownership, 3) 2+ years holding period",
+                                        "children":[]
+                                      }
+                                        ]
+                                      }
+                      ]
+                      },
+            {
+              "name": "Resident Foreign Corporations",
+              "details": "Changes",
+              "children": [
+                                      {
+                                    "name": "Regular Corporate Income Tax",
+                                    "details": "Changes",
+                                    "children":[
+                                       {
+                                        "name": "Before",
+                                         "details": "30%",
+                                        "children":[]
+                                      }, 
+                                       {
+                                        "name": "CREATE Law",
+                                         "details": "Starting July 1, 2020, 25%. Note: Taxable income deemed earned equally for each month of the year.",
+                                        "children":[]
+                                      }
+                                    ]
+                                  }, 
+                                      {
+                                    "name": "Minimum Corporate Income Tax",
+                                    "details": "Changes",
+                                    "children":[
+                                                                             {
+                                        "name": "Before",
+                                         "details": "2%",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "1%, July 01,2020 to June 30, 2023",
+                                        "children":[]
+                                      }
+                                    ]
+                                  },   
+                                  {
+                                    "name": "Deductions from Gross Income",
+                                    "details": "Changes",
+                                    "children":[
+                                                                             {
+                                        "name": "Before",
+                                         "details": "Non-deductible interest expense: 33% of interest income subject to final tax",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "Non deductible interest expense: 20% of Interest Income subject to final tax; Additional 50% deduction for labor training expense, subject to ff. conditions: 1) not to exceed 10% of direct labor wage, 2) covered by apprenticeship agreement, 3) supported by DepEd, TESDA, or CHED certification",
+                                        "children":[]
+                                      }
+                                    ]
+                                  },   
+                                  {
+                                    "name": "ROHQs",
+                                    "details": "Changes",
+                                    "children":[
+                                                                             {
+                                        "name": "Before",
+                                         "details": "10% of net taxable income",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "10% of net taxable income - 2021; 25% of net taxable income starting January 2022",
+                                        "children":[]
+                                      }
+                                    ]
+                                  },   
+                                  {
+                                    "name": "OBUs",
+                                    "details": "Changes",
+                                    "children":[
+                                                                             {
+                                        "name": "Before",
+                                         "details": "10% of gross interest income from residents, exempt for income from non-residents, exempt from other taxes",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "Subject to RCIT and other taxes",
+                                        "children":[]
+                                      }
+                                    ]
+                                  },   
+                                  {
+                                    "name": "Final Tax on Passive Income",
+                                    "details": "Changes",
+                                    "children":[
+                                                                             {
+                                        "name": "Before",
+                                         "details": "7.5% interest on FCDU deposits; 5% / 10% CGT on unlisted shares",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "15% interest on FCUD deposits, 15% CGT on unlisted shares",
+                                        "children":[]
+                                      }
+                                    ]
+                                  }
+                      ]
+                      },
+            {
+              "name": "Non-Resident Foreign Corporations",
+              "details": "Changes",
+              "children": [ 
+                                  {
+                                "name": "Regular Corporate Income Tax",
+                                "details": "Changes",
+                                "children":[
+                                                                         {
+                                        "name": "Before",
+                                         "details": "30% on gross income",
+                                        "children":[]
+                                      }, 
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "Starting January 1, 2021, 25% on gross income",
+                                        "children":[]
+                                      }
+                                ]
+                              }, 
+                               {
+                                "name": "Final Tax on Passive Income",
+                                "details": "Changes",
+                                "children":[
+                                                                         {
+                                        "name": "Before",
+                                         "details": "5% / 10% CGT on unlisted shares",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "15% on unlisted shares",
+                                        "children":[]
+                                      }
+                                ]
+                              }, 
+                           {
+                                "name": "Intercorporate Dividends",
+                                "details": "Changes",
+                                "children":[
+                                                                         {
+                                        "name": "Before",
+                                         "details": "Required tax credit in the domicile country: 15%",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "Required tax credit in the domicile country: 10% starting July 1, 2020",
+                                        "children":[]
+                                      }
+                                ]
+                              }
+          ]
+            }
+                          ]
+            }
+          ]
+}
