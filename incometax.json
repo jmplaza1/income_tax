@@ -22,11 +22,11 @@
                                     "children":[
 												{
 												"name": "OCW/OFW",
-												"details": "",
+												"details": "A Filipino citizen employed in a foreign country, who is physically present in a foreign country as a consequence of employment thereat.",
 												"children": [
 															{
-															"name": "Resident Alien",
-															"details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
+															"name": "Note: ",
+															"details": "An OFW/OCW's income arising from his overseas employment is exempt from income tax. However, if an OCW/OFW has earnings from business activities or properties within the Phils are subject to income tax.",
 															"children":[]
 															}
 															]
