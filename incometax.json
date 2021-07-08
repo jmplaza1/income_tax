@@ -26,7 +26,7 @@
 												"children": [
 															{
 															"name": "Note: ",
-															"details": "An OFW/OCW's income arising from his overseas employment is exempt from income tax. However, if an OCW/OFW has earnings from business activities or properties within the Phils are subject to income tax.",
+															"details": "An OFW/OCW's income arising from his overseas employment is exempt from income tax. However, if an OCW/OFW has earnings from business activities or properties within the Phils are subject t",
 															"children":[]
 															}
 															]
@@ -61,7 +61,12 @@
                                                                 ]
 													}
 													]
-									}
+									},
+									{
+                                                                "name": "Special Classes of Individual Employees",
+                                                                "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
+                                                                "children":[]
+                                                                }    
 			]
 			},
 			
