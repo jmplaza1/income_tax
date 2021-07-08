@@ -4,7 +4,7 @@
 "children": [
   
 			{
-			"name": "Individuals",
+				"name": "Individuals",
 			"details": "CONST, Art. IV, Sec. 4",
 			"children":[
 
@@ -328,5 +328,4 @@
 							}				  
 ]
 }
-]
-}
+
