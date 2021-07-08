@@ -16,12 +16,24 @@
                                                    {
                                                       "name": "Non-Resident Citizen",
                                                         "details": "WELP 1) Works abroad most of the time 2) Establishes fact of physical presence abroad with a definite intention to reside therein 3) Leaves to reside abroad as an immigrant or for employment on a permanent basis 4) Previously considered as non-resident citizen for his income derived abroad",
-                                                      "children":[]
-                                                    }
-													]
-                                      },
+                                                      "children":[
+													                {
+																	"name": "OCW/OFW",
+																	"details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
+										  
+																	"children":[
+																				{
+																				"name": "Resident Alien",
+																				  "details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
+																				"children":[]
+																				}
 
-                                     {
+																				]
+																	}
+																]
+									},
+		
+									{
                                         "name": "Alien",
                                           "details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
 										  
@@ -38,12 +50,12 @@
                                                           
                                                                                                          {
                                                                                                             "name": "NRA ETB",
-                                                                                                              "details": "If the aggregate period of stay in the Philippines",
+                                                                                                              "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
                                                                                                             "children":[]
                                                                                                           },
                                                                                                           {
                                                                                                             "name": "NRA NETB",
-                                                                                                              "details": "Changes",
+                                                                                                              "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
                                                                                                             "children":[]
                                                                                                           }
                                                                                                           
