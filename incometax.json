@@ -6,6 +6,59 @@
               "name": "Domestic Corporations",
               "details": "Changes ",
               "children": [
+                                   
+                                     {
+                                        "name": "Citizen",
+                                          "details": "Changes",
+                                        "children":[
+
+                                                   {
+                                                      "name": "Resident Citizen",
+                                                        "details": "Changes",
+                                                      "children":[]
+                                                    },
+
+                                                   {
+                                                      "name": "Non-Resident Citizen",
+                                                        "details": "Changes",
+                                                      "children":[]
+                                                    }
+                                        ]
+                                      },
+
+                                     {
+                                        "name": "Alien",
+                                          "details": "Changes",
+                                                        "children":[
+                                                                                               {
+                                                        "name": "Resident Alien",
+                                                          "details": "Changes",
+                                                        "children":[]
+                                                      },
+                                                     {
+                                                        "name": "Non-Resident Alien",
+                                                          "details": "Changes",
+                                                        "children":[
+                                                          
+                                                                                                         {
+                                                                                                            "name": "NRA ETB",
+                                                                                                              "details": "Changes",
+                                                                                                            "children":[]
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "name": "NRA NETB",
+                                                                                                              "details": "Changes",
+                                                                                                            "children":[]
+                                                                                                          },
+                                                                                                          
+                                                        ]
+                                                      }
+                                        ]
+                                      },
+                                 
+
+
+
                                           {
                                         "name": "Regular Corporate Income Tax",
                                           "details": "Changes",
