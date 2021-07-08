@@ -3,10 +3,10 @@
   "details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
   "children": [
   
-                                     {
-                                        "name": "Individuals",
-                                          "details": "CONST, Art. IV, Sec. 4",
-                                        "children":[
+{
+"name": "Individuals",
+"details": "CONST, Art. IV, Sec. 4",
+"children":[
 
                                      {
                                         "name": "Citizen",
@@ -37,7 +37,6 @@
 																	}
 																]
 									},
-		
 									{
                                         "name": "Alien",
                                           "details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
@@ -69,12 +68,12 @@
 																	]
 
                                        
-									}]
-									   },
-{
-              "name": "Corporations",
-              "details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
-              "children": [     
+									}
+			]
+},
+{"name": "Corporations",
+"details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
+"children": [     
             {
               "name": "Domestic Corporations",
               "details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
@@ -332,9 +331,11 @@
                                       }
                                 ]
                               }
-   ]
-            }
-          ]
+]							  
+}				  
+]
 }
 ]
-									   }
+}
+]
+}
