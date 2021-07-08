@@ -64,8 +64,24 @@
 									},
 									{
                                                                 "name": "Special Classes of Individual Employees",
-                                                                "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
+                                                                "details": "",
+                                                                "children":[
+																					{
+                                                                "name": "Minimum Wage Earners",
+                                                                "details": "",
                                                                 "children":[]
+                                                                }, 
+																					{
+                                                                "name": "Employees of ROHQs, OBUs, and FSC",
+                                                                "details": "",
+                                                                "children":[]
+                                                                },
+																					{
+                                                                "name": "Purely Self Employed Professional",
+                                                                "details": "",
+                                                                "children":[]
+                                                                }    																
+																	]
                                                                 }    
 			]
 			},
