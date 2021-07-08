@@ -4,10 +4,9 @@
 "children": [
   
 			{
-				"name": "Individuals",
+"name": "Individuals",
 			"details": "CONST, Art. IV, Sec. 4",
 			"children":[
-
                        {
                         "name": "Citizen",
                         "details": "CONST, Art. IV, Sec. 4",
@@ -33,7 +32,9 @@
 															]
 												}
 												]
-									},
+									}
+									]
+					   },
 									{
                                         "name": "Alien",
                                         "details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
@@ -328,4 +329,5 @@
 							}				  
 ]
 }
-
+]
+}
