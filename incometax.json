@@ -2,7 +2,7 @@
   "name": "Income Tax",
   "details": "",
   "children": [
-                                       
+
                                      {
                                         "name": "Citizen",
                                           "details": "Changes",
@@ -48,9 +48,7 @@
                                                                                                           },
                                                                                                           
                                                         ]
-                                                      }
-                                        ]
-                                      },
+                                                                   },
             {
               "name": "Domestic Corporations",
               "details": "Changes ",
