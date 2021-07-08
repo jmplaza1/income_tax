@@ -1,89 +1,82 @@
 {
-  "name": "Income Tax",
-  "details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-  "children": [
+"name": "Income Tax",
+"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+"children": [
   
-{
-"name": "Individuals",
-"details": "CONST, Art. IV, Sec. 4",
-"children":[
+			{
+			"name": "Individuals",
+			"details": "CONST, Art. IV, Sec. 4",
+			"children":[
 
-                                     {
-                                        "name": "Citizen",
-                                          "details": "CONST, Art. IV, Sec. 4",
-                                        "children":[
-
-                                                   {
-                                                      "name": "Resident Citizen",
-                                                        "details": "A citizen of the Philippines who stayed in the Philippines or stayed outside the Philippines for less than 183 days during the taxable year.",
-                                                      "children":[]
-                                                    },
-                                                   {
-                                                      "name": "Non-Resident Citizen",
-                                                        "details": "WELP 1) Works abroad most of the time 2) Establishes fact of physical presence abroad with a definite intention to reside therein 3) Leaves to reside abroad as an immigrant or for employment on a permanent basis 4) Previously considered as non-resident citizen for his income derived abroad",
-                                                      "children":[
-													                {
-																	"name": "OCW/OFW",
-																	"details": "",
-										  
-																	"children":[
-																				{
-																				"name": "Resident Alien",
-																				  "details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
-																				"children":[]
-																				}
-
-																				]
-																	}
-																]
+                       {
+                        "name": "Citizen",
+                        "details": "CONST, Art. IV, Sec. 4",
+                        "children":[
+                                    {
+                                    "name": "Resident Citizen",
+                                    "details": "A citizen of the Philippines who stayed in the Philippines or stayed outside the Philippines for less than 183 days during the taxable year.",
+                                    "children":[]
+                                    },
+                                    {
+                                    "name": "Non-Resident Citizen",
+                                    "details": "WELP 1) Works abroad most of the time 2) Establishes fact of physical presence abroad with a definite intention to reside therein 3) Leaves to reside abroad as an immigrant or for employment on a permanent basis 4) Previously considered as non-resident citizen for his income derived abroad",
+                                    "children":[
+												{
+												"name": "OCW/OFW",
+												"details": "",
+												"children": [
+															{
+															"name": "Resident Alien",
+															"details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
+															"children":[]
+															}
+															]
+												}
+												]
 									},
 									{
                                         "name": "Alien",
-                                          "details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
-										  
-                                                        "children":[
-                                                        {
-                                                        "name": "Resident Alien",
-                                                          "details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
-                                                        "children":[]
-                                                        },
-														{
-                                                        "name": "Non-Resident Alien",
-                                                          "details": "An individual whose residence is not within the Philippines and who is not a citizen thereof",
-                                                        "children":[
-                                                          
-                                                                                                         {
-                                                                                                            "name": "NRA ETB",
-                                                                                                              "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
-                                                                                                            "children":[]
-                                                                                                          },
-                                                                                                          {
-                                                                                                            "name": "NRA NETB",
-                                                                                                              "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
-                                                                                                            "children":[]
-                                                                                                          }
-                                                                                                          
-                                                                  ]
-														}
-																	]
-
-                                       
+                                        "details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
+                                        "children":[
+                                                    {
+                                                    "name": "Resident Alien",
+                                                    "details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
+                                                    "children":[]
+                                                    },
+													{
+                                                    "name": "Non-Resident Alien",
+                                                    "details": "An individual whose residence is not within the Philippines and who is not a citizen thereof",
+                                                    "children":[
+                                                                {
+                                                                "name": "NRA ETB",
+                                                                "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
+                                                                "children":[]
+                                                                },
+                                                                {
+                                                                "name": "NRA NETB",
+                                                                "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
+                                                                "children":[]
+                                                                }                                   
+                                                                ]
+													}
+													]
 									}
 			]
-},
-{"name": "Corporations",
-"details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
-"children": [     
-            {
-              "name": "Domestic Corporations",
-              "details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
-              "children": [                               
-                                          {
-                                        "name": "Regular Corporate Income Tax",
-                                          "details": "Changes",
-                                        "children":[
-                                          
-                                                     {
+			},
+			
+			{
+			"name": "Corporations",
+			"details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
+			"children": [     
+						{
+						"name": "Domestic Corporations",
+						"details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
+						"children": [                               
+                                    {
+                                    "name": "Regular Corporate Income Tax",
+                                    "details": "Changes",
+                                    "children":[
+                                               {
                                         "name": "Before",
                                                                                  "details": "30%",
                                         "children":[]
@@ -329,12 +322,10 @@
                                          "details": "Required tax credit in the domicile country: 10% starting July 1, 2020",
                                         "children":[]
                                       }
-                                ]
+											]
                               }
-]							  
-}				  
-]
-}
+							]							  
+							}				  
 ]
 }
 ]
